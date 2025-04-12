@@ -1,93 +1,54 @@
-# 👋 Hi, I'm Haniyeh Habibi!
-<!--
-**haniyeh-habibi/haniyeh-habibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# 👋 Hi, I'm Haniyeh Habibi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🌟 **Blockchain Developer** passionate about building privacy-preserving systems, scalable architectures, and robust blockchain solutions. Currently based in Warsaw, Poland, I specialize in smart contracts, cryptographic techniques, and decentralized technologies.
-
-## 💼 Work Experience
-### **🌍 Centre of New Technologies, University of Warsaw**  
-**Blockchain Researcher** (Oct 2024 – Present)  
-- 🚀 Advancing private and anonymous secure voting protocols with cutting-edge blockchain technologies.  
-- 🔬 Diving into the depths of zero-knowledge proofs to unlock the future of privacy and security.
+I'm a blockchain developer passionate about privacy-preserving systems, smart contract infrastructure, and scalable backend design. Based in Warsaw, I focus on building secure and efficient systems using zero-knowledge proofs and cryptographic primitives.
 
 ---
 
-### **🚀 Nobitex Crypto-Exchange**  
-**Senior Blockchain Engineer** (Nov 2020 – Oct 2024)  
-At Nobitex, I played a pivotal role in shaping the blockchain transaction systems for one of the largest crypto exchanges in the region. Here's what I accomplished:  
+## 💼 Experience
 
-- 🛠️ **Architecting Excellence**  
-  Designed and implemented transaction systems supporting over 30 blockchain networks, achieving a **30% improvement in detection accuracy**.  
+### 🧪 University of Warsaw – Blockchain Researcher (Oct 2024 – Present)  
+- Designing a zk-SNARK-based voting protocol using Circom, Groth16, Solidity, and Rust  
+- Built custom ZK circuits for Merkle inclusion, nullifiers, and vote logic  
+- Working on decentralized verifiability and ZK-based election integrity
 
-- 🌟 **Building Robust Backends**  
-  Engineered secure, scalable backend infrastructure using Python, Django, and PostgreSQL, ensuring seamless integration of crypto services.  
-
-- 🔍 **Advanced Monitoring Systems**  
-  Integrated **Sentry-based monitoring** to track, analyze, and mitigate errors in real-time, reducing system downtime significantly.  
-
-- 🎯 **Leadership in Action**  
-  Managed and mentored a dynamic team of 8 developers, fostering a collaborative culture that encouraged innovation and skill development.  
-
-- 💡 **Scalable Wallet Infrastructure**  
-  Built a scalable wallet management system for **10+ million users**, leveraging Python, Celery, Redis, and Flask for robust transaction handling.  
+### 🔧 Nobitex – Blockchain Engineer (Nov 2020 – Oct 2024)  
+- Built a real-time blockchain explorer supporting 20+ networks (Python, Django, Celery)  
+- Developed secure wallet infrastructure with hot/cold custody and key management  
+- Implemented EIP-4337 account abstraction with smart contract wallets and gas paymaster contracts
 
 ---
 
-## 🛠️ Technical Skills
-🔑 **Languages**: Solidity, Python, JavaScript/TypeScript  
-🏗️ **Frameworks**: Django, NestJS, Flask, Hardhat, Truffle, Web3.js, ethers.js  
-⛓️ **Blockchain Expertise**: Ethereum, Layer 2 Solutions (ZKP rollups), Smart Contracts, ZK-Proofs  
-🗄️ **Databases & APIs**: PostgreSQL, TypeORM, REST, GraphQL  
-🔧 **Tools**: Celery, Redis, Sentry, Pytest, Unittest  
-💡 **Soft Skills**: Leadership, Communication, Problem-solving, Teamwork 
+## 🛠️ Tech Stack
+
+**Languages**: Rust, Solidity, Python, Circom  
+**Frameworks**: Django, Hardhat, Truffle, Foundry  
+**Blockchain**: zk-SNARKs, Merkle Trees, Account Abstraction (EIP-4337)  
+**Infra**: PostgreSQL, Redis, Docker, Celery, Sentry
 
 ---
 
-## 🚀 Signature Projects
+## 🚀 Projects
 
-### **Blockchain Transaction Explorer**  
-🔗 Designed a scalable wallet system for managing transactions across **10+ million users**.  
-🛠️ Technologies: Python, Django, Celery, Redis, Flask  
-
-### **Account Abstraction on Ethereum**  
-🔐 Implemented **EIP-4337 account abstraction mechanisms**, enhancing wallet usability and scalability.  
-⚙️ Developed smart contracts and backend infrastructure using **TypeScript**, **NestJS**, and **TypeORM**.  
+- 🗳 **ZK Voting System** — Groth16 zk-SNARKs, Circom circuits, Solidity verifier, Rust backend  
+- 🔍 **Transaction Explorer** — Real-time cross-chain validation + custom block parsers  
+- 🔐 **Smart Wallet Infrastructure** — Modular EIP-4337 implementation with paymaster logic  
+- 🧊 **Hot/Cold Wallet System** — Multi-signature custody architecture with secure signing, key generation, and offline asset protection
 
 ---
+
 ## 🎓 Education
 
-🎓 **Bachelor of Computer Software Engineering**  
-**Babol Noshirvani University of Technology**  
-Focused on software design, algorithms, and data structures.
+**B.Sc. in Computer Software Engineering**  
+Babol Noshirvani University of Technology (2018 – 2023)
 
 ---
 
-## 🌍 Where to Find Me
-🌐 GitHub: [github.com/haniyeh-habibi](https://github.com/haniyeh-habibi)  
-💼 LinkedIn: [linkedin.com/in/haniyeh-habibi](https://www.linkedin.com/in/haniyeh-habibi/)  
-📧 Email: [haniye.habibi@gmail.com](mailto:haniye.habibi@gmail.com)  
+## 📫 Reach Out
+
+📧 [haniye.habibi@gmail.com](mailto:haniye.habibi@gmail.com)  
+💼 [linkedin.com/in/haniyeh-habibi](https://linkedin.com/in/haniyeh-habibi)  
+💻 [github.com/haniyeh-habibi](https://github.com/haniyeh-habibi)
 
 ---
 
-## ✨ Beyond Code  
-This year, I’m guided by my motto: **"Explore, Embrace, and Evolve."**  
-It’s a reminder to seek new opportunities, adapt to challenges, and grow in every aspect of life—personally and professionally.
-
-<!--
----
-
-### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=haniyeh-habibi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haniyeh-habibi&layout=compact&theme=radical)  
--->
+_“Explore, Embrace, and Evolve.”_
