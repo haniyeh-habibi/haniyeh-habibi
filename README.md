@@ -21,12 +21,12 @@ I'm a blockchain developer passionate about privacy-preserving systems, smart co
 ## 🛠 Tech Stack
 
 **Languages**: Python, Rust, Solidity, Circom  
-**Smart Contract Tooling**: Django, Hardhat, Foundry, Truffle, Ethers, Web3 
+**Smart Contract Tooling**: Django, Hardhat, Foundry, Truffle, Ethers, Web3  
 **Blockchain & Cryptography**: Ethereum (EVM), zk-SNARKs (Groth16), Merkle Trees, Privacy-Preserving Protocols  
 **Backend Development**: Django, FastAPI, Celery  
-**Data & APIs**: PostgreSQL, TypeORM, Redis, REST, WebSockets
-**Infrastructure & Monitoring**: Docker, Git, CI/CD pipelines, Sentry, Pytest, Unittest
-**Soft Skills**: Clear communication, structured problem-solving, ownership mindset
+**Data & APIs**: PostgreSQL, TypeORM, Redis, REST, WebSockets  
+**Infrastructure & Monitoring**: Docker, Git, CI/CD pipelines, Sentry, Pytest, Unittest  
+**Soft Skills**: Clear communication, structured problem-solving, ownership mindset  
 
 ---
 
@@ -35,7 +35,7 @@ I'm a blockchain developer passionate about privacy-preserving systems, smart co
 - 🗳 **ZK Voting System** — Groth16 zk-SNARKs, Circom circuits, Solidity verifier, Rust backend  
 - 🔍 **Explorer As a Service** — Real-time monitoring system for 20+ blockchain networks using Python, WebSockets, and custom parsers  
 - 🔐 **Smart Wallet Infrastructure** — Modular EIP-4337 implementation with paymaster logic  
-- 🧊 **Hot/Cold Wallet System** — Multi-signature custody architecture with secure signing, key generation, and offline asset protection
+- 🧊 **Hot/Cold Wallet System** — Multi-signature custody architecture with secure signing, key generation, and offline asset protection  
 
 ---
 
